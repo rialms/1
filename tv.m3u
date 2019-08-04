@@ -1,0 +1,125 @@
+#EXTM3U *** bdiX LiveTV ***
+
+#EXTINF:-1,TV VIP | ***** FTP NALITA ***** 
+
+
+#EXTINF:-1,GTV
+http://103.200.36.230/live/skyfeed1001/index.m3u8
+#EXTINF:-1,Channel 9
+http://103.200.36.230/live/skyfeed1002/index.m3u8
+#EXTINF:-1,RTV
+http://103.200.36.230/live/skyfeed1003/index.m3u8
+#EXTINF:-1,Channel i
+http://103.200.36.230/live/skyfeed1004/index.m3u8
+#EXTINF:-1,massranga
+http://103.200.36.230/live/skyfeed1005/index.m3u8
+#EXTINF:-1,dipto
+http://103.200.36.230/live/skyfeed1006/index.m3u8
+#EXTINF:-1,SA TV
+http://103.200.36.230/live/skyfeed1007/index.m3u8
+#EXTINF:-1,asian
+http://103.200.36.230/live/skyfeed1008/index.m3u8
+#EXTINF:-1,news24
+http://103.200.36.230/live/skyfeed1009/index.m3u8
+#EXTINF:-1,jamunaTV
+http://103.200.36.230/live/skyfeed1010/index.m3u8
+#EXTINF:-1,DurantaTV
+http://103.200.36.230/live/skyfeed1011/index.m3u8
+#EXTINF:-1,ETV
+http://103.200.36.230/live/skyfeed1012/index.m3u8
+#EXTINF:-1,NTV
+http://103.200.36.230/live/skyfeed1013/index.m3u8
+#EXTINF:-1,Jalsha
+http://103.200.36.230/live/skyfeed1014/index.m3u8
+#EXTINF:-1,ZeeBangla
+http://103.200.36.230/live/skyfeed1015/index.m3u8
+#EXTINF:-1,andFlix
+http://103.200.36.230/live/skyfeed1016/index.m3u8
+#EXTINF:-1,star sports 1
+http://103.200.36.230/live/skyfeed1017/index.m3u8
+#EXTINF:-1,zeeCinema
+http://103.200.36.230/live/skyfeed1018/index.m3u8
+#EXTINF:-1,TV 19
+http://103.200.36.230/live/skyfeed1019/index.m3u8
+#EXTINF:-1,starGold
+http://103.200.36.230/live/skyfeed1020/index.m3u8
+#EXTINF:-1,TV 21
+http://103.200.36.230/live/skyfeed1021/index.m3u8
+#EXTINF:-1,TV 22
+http://103.200.36.230/live/skyfeed1022/index.m3u8
+#EXTINF:-1,TV 23
+http://103.200.36.230/live/skyfeed1023/index.m3u8
+#EXTINF:-1,TV 24
+http://103.200.36.230/live/skyfeed1024/index.m3u8
+#EXTINF:-1,TV 25
+http://103.200.36.230/live/skyfeed1025/index.m3u8
+#EXTINF:-1,Gazi
+https://akamai.anytv.live/GTVN-HD/index.m3u8
+#EXTINF:-1,Star Sports one
+https://akamai.anytv.live/StarSports1HHD/index.m3u8
+#EXTINF:-1,Star Sports 2
+https://akamai.anytv.live/StarSports2HHD/index.m3u8
+#EXTINF:-1,Star Sports Select 1
+https://akamai.anytv.live/StarSportsSelect1HD/index.m3u8
+#EXTINF:-1,Star Sports Select 2
+https://akamai.anytv.live/StarSportsSelect2HD/index.m3u8
+#EXTINF:-1,Sony ten 1
+https://akamai.anytv.live/SonyTen1HD/index.m3u8
+#EXTINF:-1,Sony Ten 2
+https://akamai.anytv.live/SonyTen2HD/index.m3u8
+#EXTINF:-1,Discovery
+https://akamai.anytv.live/DiscoveryHD/index.m3u8
+#EXTINF:-1,MN+
+https://akamai.anytv.live/MNPlusHD/index.m3u8
+#EXTINF:-1,StarWorld
+https://akamai.anytv.live/StarWorldHD/index.m3u8
+#EXTINF:-1,StarWorld Premier
+https://akamai.anytv.live/StarWorldPremierHD/index.m3u8
+#EXTINF:-1,Star Movies
+https://akamai.anytv.live/StarMoviesHD/index.m3u8
+#EXTINF:-1,FOX LIFE
+https://akamai.anytv.live/FoxLifeHD/index.m3u8
+#EXTINF:-1,Set
+https://akamai.anytv.live/SetHHD/index.m3u8
+#EXTINF:-1,HBO
+https://akamai.anytv.live/HBO/index.m3u8
+#EXTINF:-1,HBO 2
+https://akamai.anytv.live/HBO2/index.m3u8
+#EXTINF:-1,MTV
+https://akamai.anytv.live/MTV/index.m3u8 
+#EXTINF:-1,Sony Pix
+https://akamai.anytv.live/SonyPicsHD/index.m3u8
+#EXTINF:-1,Gaan Bangla
+https://akamai.anytv.live/GaanBangla/index.m3u8
+#EXTINF:-1,SA TV
+https://akamai.anytv.live/SATVHD/index.m3u8
+#EXTINF:-1,ekattor
+https://akamai.anytv.live/ekattorHD/index.m3u8
+#EXTINF:-1,Channel 17
+https://akamai.anytv.live/Channel17/index.m3u8
+#EXTINF:-1,Masranga
+https://akamai.anytv.live/MasrangaHHD/index.m3u8
+#EXTINF:-1,Channel i
+https://akamai.anytv.live/ChannelIHD/index.m3u8
+#EXTINF:-1,Flix
+https://akamai.anytv.live/FlixHD/index.m3u8
+#EXTINF:-1,Nick elodeon
+https://akamai.anytv.live/NickelodeonHD/index.m3u8
+#EXTINF:-1,Sony Six
+https://akamai.anytv.live/SonySixHD/index.m3u8
+#EXTINF:-1,Sab
+https://akamai.anytv.live/SabHD/index.m3u8
+#EXTINF:-1,Sony Maxx
+https://akamai.anytv.live/SonyMaxHD/index.m3u8
+#EXTINF:-1,Sony Aath
+https://akamai.anytv.live/SonyAath/index.m3u8
+#EXTINF:-1,StarPlus
+https://akamai.anytv.live/StarPlus-HD/index.m3u8
+#EXTINF:-1,& TV
+https://akamai.anytv.live/AndTVHD/index.m3u8
+#EXTINF:-1,& Pic
+https://akamai.anytv.live/AndPicHHD/index.m3u8
+#EXTINF:-1,StarGold
+https://akamai.anytv.live/StarGoldHD/index.m3u8
+#EXTINF:-1,Jalsha movie
+https://akamai.anytv.live/Jalshamovi/index.m3u8
